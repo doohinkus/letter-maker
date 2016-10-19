@@ -1,0 +1,9 @@
+#story{
+  display: none;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 20pt;
+  margin-top: 100px;
+  margin-left: 50px;
+  margin-right: 50px;
+  line-height: 1.8em;
+}
